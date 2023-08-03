@@ -1,0 +1,11 @@
+{
+  "name": "pp-backend",
+  "version": "1.0.0",
+  "description": "A backend for all of my personal projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
